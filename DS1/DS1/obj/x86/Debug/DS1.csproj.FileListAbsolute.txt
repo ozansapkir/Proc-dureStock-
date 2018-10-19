@@ -1,0 +1,4 @@
+C:\Slam3\DS1\DS1\bin\Debug\DS1.exe
+C:\Slam3\DS1\DS1\bin\Debug\DS1.pdb
+C:\Slam3\DS1\DS1\obj\x86\Debug\DS1.exe
+C:\Slam3\DS1\DS1\obj\x86\Debug\DS1.pdb
